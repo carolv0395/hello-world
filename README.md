@@ -1,2 +1,6 @@
 # hello-world
 practice repository
+
+Hi,
+My name is Carolina Vieira. 
+I'm 23 years old and getting my masters done.
